@@ -5,4 +5,4 @@ The intention of these plots is to visualize decadal changes and patterns in rac
 
 
 
-Interactive plots in html format can be viewed [here](http://mixedmetro.com).
+Interactive charts in html format can be viewed [here](http://mixedmetro.com).
