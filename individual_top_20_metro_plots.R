@@ -159,7 +159,7 @@ t <- list(
 
 
 
-plotter = function(metros_90_00, metros_00_10, metros_10_20, x_node, y_node, title) {
+plotter <- function(metros_90_00, metros_00_10, metros_10_20, x_node, y_node, title) {
   source = c(metros_90_00$source_idx, metros_00_10$source_idx, metros_10_20$source_idx)
   
   target = c(metros_90_00$target_idx, metros_00_10$target_idx, metros_10_20$target_idx)
