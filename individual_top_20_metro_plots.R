@@ -13,7 +13,7 @@ library(plotly)
 library(tidyverse)
 library(dplyr)
 
-dataDir <- "~/Desktop/Projects/MixedMetro_viz/largest_100_MSA_transitions copy"
+dataDir <- "~/Desktop/Projects/MixedMetro_viz/largest_20_MSA_transitions"
 
 order <- c("LDW", "MDW",
            "LDL", "MDL",
